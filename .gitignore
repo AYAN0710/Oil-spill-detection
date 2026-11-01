@@ -1,0 +1,16 @@
+# Virtual environment
+/myenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Keep example environment file
+!.env.example
+
+# Frontend dependencies (if using Node)
+frontend/node_modules/
